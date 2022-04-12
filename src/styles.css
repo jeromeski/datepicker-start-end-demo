@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+/* ===================  
+    REACT DATEPICKER
+======================*/
+
+.react-datepicker__day--selected {
+  background-color: #f56960;
+}
+
+.react-datepicker__header {
+  background-color: #0791be;
+}
+
+.react-datepicker__current-month {
+  color: white;
+}
+
+.react-datepicker__day-name {
+  color: white;
+}
